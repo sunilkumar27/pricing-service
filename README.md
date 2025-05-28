@@ -247,4 +247,4 @@ If you encounter issues:
 
 For further assistance, please contact the development team.
 
-This is to test the commit change.
+This is to test the commit change to test merge conflict changes.
