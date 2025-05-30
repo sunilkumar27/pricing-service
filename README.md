@@ -246,5 +246,3 @@ If you encounter issues:
 4. Clear the cache if you suspect stale data is being returned
 
 For further assistance, please contact the development team.
-
-This is to test the commit change to test merge conflict changes.
